@@ -1,2 +1,3 @@
 # DevOPs_SecA
-#we are learning git AGAIN!!!!
+We are learning git.
+Hi lets learn DevOps..
